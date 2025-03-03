@@ -1,9 +1,9 @@
 payload:
-  - '+'fqnovel.com
-  - '+'bytedance.com
-  - '+.If.fanovel.com
-  - '+.rtlog3-applog-If.fanovel.com
-  - '+.p3-novel.byteimg.com
+  - '+.fqnovel.com'
+  - '+.bytedance.com'
+  - '+.If.fanovel.com'
+  - '+.rtlog3-applog-If.fanovel.com'
+  - '+.p3-novel.byteimg.com'
   - '+.saveu5-normal-hl.zijieapi.com'
   - '+.imapi5-oth-lf.zijieapi.com'
   - '+.webcast5-open-hl.douyin.com'

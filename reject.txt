@@ -1,7 +1,6 @@
 payload:
   - '+.p6-novel.byteimg.com'
   - '+.fqnovel.com'
-  - '+.bytedance.com'
   - '+.If.fanovel.com'
   - '+.rtlog3-applog-If.fanovel.com'
   - '+.p3-novel.byteimg.com'
@@ -48,7 +47,7 @@ payload:
   - '+.mmgame.qpic.cn'
   - '+.ttwebview.com'
   - '+.bytedanceapi.com'
-  - '+.aweme.snssdk.com'
+  - '+.snssdk.com'
   - '+.uril6.com'
   - '+.bytegecko.com'
   - '+.yuanbaobaoxian.com'

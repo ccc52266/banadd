@@ -1,5 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,p3-novel.byteimg.com
+  - DOMAIN-SUFFIX,lf-webcast-gr-sourcecdn.bytegecko.com
+  - DOMAIN-SUFFIX,novel.byteimg.com
   - DOMAIN,saveu5-normal-hl.zijieapi.com
   - DOMAIN,imapi5-oth-lf.zijieapi.com
   - DOMAIN,webcast5-open-hl.douyin.com
@@ -10,15 +11,7 @@ payload:
   - DOMAIN,tosv.byted.org
   - DOMAIN,pull-flv-cny01-spe-l11.douyinliving.com
   - DOMAIN,lf3-reading.fqnovelpic.com
-  - DOMAIN,p9-webcast-sign.douyinpic.com
-  - DOMAIN,p8-webcast-sign.douyinpic.com
-  - DOMAIN,p7-webcast-sign.douyinpic.com
-  - DOMAIN,p6-webcast-sign.douyinpic.com
-  - DOMAIN,p5-webcast-sign.douyinpic.com
-  - DOMAIN,p4-webcast-sign.douyinpic.com
-  - DOMAIN,p3-webcast-sign.douyinpic.com
-  - DOMAIN,p2-webcast-sign.douyinpic.com
-  - DOMAIN,p1-webcast-sign.douyinpic.com
+  - DOMAIN,webcast-sign.douyinpic.com
   - DOMAIN,polaris5-normal-hl.zijieapi.com
   - DOMAIN,smarthome-drcn.dbankcdn.com
   - DOMAIN,polaris5-normal-lq.zijieapi.com

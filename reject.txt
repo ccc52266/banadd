@@ -1,4 +1,5 @@
 payload:
+  - '+.p6-novel.byteimg.com'
   - '+.fqnovel.com'
   - '+.bytedance.com'
   - '+.If.fanovel.com'

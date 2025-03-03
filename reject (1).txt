@@ -1,9 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,log0-applog-lf.fqnovel.com
-  - DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com
-  - DOMAIN-SUFFIX,tnc0-aliec2.zijieapi.com
-  - DOMAIN-SUFFIX,lf-webcast-gr-sourcecdn.bytegecko.com
-  - DOMAIN-SUFFIX,novel.byteimg.com
   - DOMAIN-SUFFIX,saveu5-normal-hl.zijieapi.com
   - DOMAIN-SUFFIX,imapi5-oth-lf.zijieapi.com
   - DOMAIN-SUFFIX,webcast5-open-hl.douyin.com

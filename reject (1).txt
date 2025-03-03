@@ -14,8 +14,8 @@ payload:
   - DOMAIN-SUFFIX,v3-novelapp.fqnovelvod.com
   - DOMAIN-SUFFIX,tosv.byted.org
   - DOMAIN-SUFFIX,pull-flv-cny01-spe-l11.douyinliving.com
-  - DOMAIN-SUFFIX,lf3-reading.fqnovelpic.com
-  - DOMAIN-SUFFIX,webcast-sign.douyinpic.com
+  - DOMAIN-SUFFIX,reading.fqnovelpic.com
+  - DOMAIN-SUFFIX,sign.douyinpic.com
   - DOMAIN-SUFFIX,polaris5-normal-hl.zijieapi.com
   - DOMAIN-SUFFIX,smarthome-drcn.dbankcdn.com
   - DOMAIN-SUFFIX,polaris5-normal-lq.zijieapi.com

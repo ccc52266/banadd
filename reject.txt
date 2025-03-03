@@ -1,5 +1,5 @@
 payload:
-- '+.saveu5-normal-hl.zijieapi.com'
+  - '+.saveu5-normal-hl.zijieapi.com'
   - '+.imapi5-oth-lf.zijieapi.com'
   - '+.webcast5-open-hl.douyin.com'
   - '+.bsync3-normal-hl.zijieapi.com'

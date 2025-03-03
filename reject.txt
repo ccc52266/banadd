@@ -1,4 +1,5 @@
 payload:
+  - '+.rtlog3-applog-If.fanovel.com
   - '+.p3-novel.byteimg.com
   - '+.saveu5-normal-hl.zijieapi.com'
   - '+.imapi5-oth-lf.zijieapi.com'

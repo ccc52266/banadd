@@ -40,7 +40,6 @@ payload:
   - DOMAIN-SUFFIX,mmgame.qpic.cn
   - DOMAIN-SUFFIX,ttwebview.com
   - DOMAIN-SUFFIX,bytedanceapi.com
-  - DOMAIN-SUFFIX,aweme.snssdk.com
   - DOMAIN-SUFFIX,uril6.com
   - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,yuanbaobaoxian.com

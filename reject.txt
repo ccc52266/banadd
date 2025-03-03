@@ -1,5 +1,4 @@
 payload:
-  - '+.fqnovel.com'
   - '+.If.fanovel.com'
   - '+.rtlog3-applog-If.fanovel.com'
   - '+.p3-novel.byteimg.com'

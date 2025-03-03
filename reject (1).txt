@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,gecko5-lf.zijieapi.com
   - DOMAIN-SUFFIX,lf.fqnovel.com
   - DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com
   - DOMAIN-SUFFIX,tnc0-aliec2.zijieapi.com

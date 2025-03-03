@@ -1,6 +1,5 @@
 payload:
-  - DOMAIN-SUFFIX,gecko5-lf.zijieapi.com
-  - DOMAIN-SUFFIX,lf.fqnovel.com
+  - DOMAIN-SUFFIX,log0-applog-lf.fqnovel.com
   - DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com
   - DOMAIN-SUFFIX,tnc0-aliec2.zijieapi.com
   - DOMAIN-SUFFIX,lf-webcast-gr-sourcecdn.bytegecko.com
@@ -14,8 +13,16 @@ payload:
   - DOMAIN-SUFFIX,v3-novelapp.fqnovelvod.com
   - DOMAIN-SUFFIX,tosv.byted.org
   - DOMAIN-SUFFIX,pull-flv-cny01-spe-l11.douyinliving.com
-  - DOMAIN-SUFFIX,reading.fqnovelpic.com
-  - DOMAIN-SUFFIX,sign.douyinpic.com
+  - DOMAIN-SUFFIX,lf3-reading.fqnovelpic.com
+  - DOMAIN-SUFFIX,p9-webcast-sign.douyinpic.com
+  - DOMAIN-SUFFIX,p8-webcast-sign.douyinpic.com
+  - DOMAIN-SUFFIX,p7-webcast-sign.douyinpic.com
+  - DOMAIN-SUFFIX,p6-webcast-sign.douyinpic.com
+  - DOMAIN-SUFFIX,p5-webcast-sign.douyinpic.com
+  - DOMAIN-SUFFIX,p4-webcast-sign.douyinpic.com
+  - DOMAIN-SUFFIX,p3-webcast-sign.douyinpic.com
+  - DOMAIN-SUFFIX,p2-webcast-sign.douyinpic.com
+  - DOMAIN-SUFFIX,p1-webcast-sign.douyinpic.com
   - DOMAIN-SUFFIX,polaris5-normal-hl.zijieapi.com
   - DOMAIN-SUFFIX,smarthome-drcn.dbankcdn.com
   - DOMAIN-SUFFIX,polaris5-normal-lq.zijieapi.com
@@ -38,8 +45,11 @@ payload:
   - DOMAIN-SUFFIX,api.novelfm.com
   - DOMAIN-SUFFIX,fqnovelstatic.com
   - DOMAIN-SUFFIX,mmgame.qpic.cn
+  - DOMAIN-SUFFIX,fqnovel.com
+  - DOMAIN-SUFFIX,www.bytedance.com
   - DOMAIN-SUFFIX,ttwebview.com
   - DOMAIN-SUFFIX,bytedanceapi.com
+  - DOMAIN-SUFFIX,aweme.snssdk.com
   - DOMAIN-SUFFIX,uril6.com
   - DOMAIN-SUFFIX,bytegecko.com
   - DOMAIN-SUFFIX,yuanbaobaoxian.com

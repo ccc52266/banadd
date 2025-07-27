@@ -8188,7 +8188,7 @@
       ],
       "domain_regex": [
          "https?:\/\/.+\/videos\/other\/.+",
-         "https?:\/\/paopao\w?\.qiyipic\.com",
+         "https?:\/\/paopao\w\.qiyipic\.com",
          "https?:\/\/\.+\.atm\.youku\.com",
          "https?:\/\/img\w\.g\.pptv\.com",
          "https?:\/\/h\w{2}\.hxsame\.hexun\.com",

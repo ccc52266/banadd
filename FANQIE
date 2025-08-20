@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+         "dig.zjurl.cn",
+         "dig.bdurl.net",
+         "ichannel.snssdk.com",
+         "is.snssdk.com",
+         "toutiao-frontier.snssdk.com",
+         "ug.snssdk.com",
+         "tp-pay.snssdk.com",
+         "mssdk.zijieapi.com",
+         "vcs.zijieapi.com",
+         "timon.zijieapi.com",
+         "feedback-c.zijieapi.com",
+         "polaris.zijieapi.com",
+         "i.snssdk.com",
+         "effect.snssdk.com"
+      ]
+    }
+    {
+      "type": "logical",
+      "mode": "and",
+      "rules": [
+        {
+          "domain_keyword": [ "tnc", "pangolin" ]
+        },
+        {
+          "domain_suffix": [ "zijieapi.com", "snssdk.com", "sgsnssdk.com" ]
+        }
+      ]
+    }
+  ]
+}

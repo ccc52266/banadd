@@ -8279,18 +8279,7 @@
          "220.115.251.25/32",
          "222.73.156.235/32"
       ],
-      {
-         "type": "logical",
-         "mode": "and",
-         "rules": [
-           {
-             "domain_keyword": [ "tnc", "pangolin" ]
-           },
-           {
-             "domain_suffix": [ "zijieapi.com", "snssdk.com", "sgsnssdk.com" ]
-           }
-         ]
-      }
     }
   ]
 }
+

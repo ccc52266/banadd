@@ -55,46 +55,7 @@
          "zhihu-web-analytics.zhihu.com",
          "118.89.204.198"
       ],
-      {
-         "type": "logical",
-         "mode": "and",
-         "rules": [
-           {
-             "domain_keyword": [ "tnc" ]
-           },
-           {
-             "type": "logical",
-             "mode": "or",
-             "rules": [
-               {
-                 "domain_suffix": [ "zijieapi.com", "snssdk.com", "sgsnssdk.com" ]
-               }
-             ],
-             "invert": false
-           }
-         ],
-         "invert": false
-      },
-      {
-         "type": "logical",
-         "mode": "and",
-         "rules": [
-           {
-             "domain_keyword": [ "pangolin" ]
-           },
-           {
-             "type": "logical",
-             "mode": "or",
-             "rules": [
-               {
-                 "domain_suffix": [ "zijieapi.com", "snssdk.com", "sgsnssdk.com" ]
-               }
-             ],
-             "invert": false
-           }
-         ],
-         "invert": false
-      },
+      
       "domain_suffix": [
          "a.ckm.iqiyi.com",
          "ad.m.iqiyi.com",
@@ -16556,4 +16517,5 @@
     }
   ]
 }
+
 

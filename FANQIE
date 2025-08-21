@@ -17,19 +17,35 @@
          "polaris.zijieapi.com",
          "i.snssdk.com",
          "effect.snssdk.com"
-      ]
+      ],
+      "keyword": ["mon"]
     },
     {
-      "type": "logical",
-      "mode": "and",
-      "rules": [
-        {
-          "domain_keyword": [ "tnc", "pangolin" ]
-        },
-        {
-          "domain_suffix": [ "zijieapi.com", "snssdk.com", "sgsnssdk.com" ]
-        }
-      ]
-    }
+        "type": "logical",
+        "mode": "and",
+        "rules": [
+         {
+           "type": "logical",
+           "mode": "or",
+           "rules": [
+              {
+                "domain_keyword": [ "tnc", "pangolin", "mon" ]
+              }
+           ],
+           "invert": false
+         },
+         {
+           "type": "logical",
+           "mode": "or",
+           "rules": [
+              {
+               "domain_suffix": [ "zijieapi.com", "snssdk.com", "sgsnssdk.com" ]
+              }
+           ],
+           "invert": false
+         }
+       ],
+       "invert": false
+     }
   ]
 }

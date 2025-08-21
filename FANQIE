@@ -18,13 +18,15 @@
          "i.snssdk.com",
          "effect.snssdk.com"
       ],
-      "keyword": ["mon"]
+      "keyword": [
+        "mon"
+      ]
     },
     {
         "type": "logical",
         "mode": "and",
         "rules": [
-         {
+        {
            "type": "logical",
            "mode": "or",
            "rules": [
@@ -33,8 +35,8 @@
               }
            ],
            "invert": false
-         },
-         {
+        },
+        {
            "type": "logical",
            "mode": "or",
            "rules": [
@@ -43,9 +45,9 @@
               }
            ],
            "invert": false
-         }
-       ],
+        }
+        ],
        "invert": false
-     }
+    }
   ]
 }
